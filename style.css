@@ -1,0 +1,163 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Spline Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    padding-bottom: 20px;
+}
+
+h1{
+    color: black;
+    
+}
+h3{
+    color: rgb(247, 75, 75);
+    font-size: larger;
+}
+
+p{
+    font-size: 25px;
+}
+
+#stay{
+    margin-top: 15px;
+    border-left: 5px solid black;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.half{
+    width: 50%;
+    margin-left: 5%;
+    font-size: 25px;
+}
+
+.half img{
+    width: 75%;
+}
+
+.button{
+    width: 40px;
+    background-color: rgb(255, 80, 80);
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.my_mession h1{
+
+    text-align: center;
+    font-size:50px ;
+    color: rgb(23, 13, 78);
+
+}
+.small{
+    color: rgb(247, 75, 75);
+}
+
+.section_two{
+    padding: 5%;
+    height: 400px;
+   
+    
+}
+
+.section_two img{
+    width: 30%;
+}
+
+.section_two h3{
+    font-size: larger;
+    color: black;
+}
+
+#mission{
+    background-color: rgba(200, 172, 172, 0.26);
+    width: 30%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 2%;
+ 
+}
+
+#visson{
+    background-color: rgba(15, 37, 78, 0.26);
+    width: 30%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 2%;
+ 
+   
+}
+#goals{
+    background-color: rgba(221, 45, 45, 0.26);
+    width: 30%;
+    margin-right: 5%;
+    border-radius: 10px;
+    padding: 2%;
+ 
+ 
+}
+
+
+
+
+.section_three img{
+    width: 50%;
+    margin-left: 200px;
+}
+
+.sec_three_doc{
+    padding:10px ;
+    margin-right: 200px;
+}
+
+.section_four img{
+    width: 50%;
+}
+
+.sec_four_doc{
+    margin-left: 200px;
+}
+
+
+
+
+.hobis{
+    width: 40%;
+    background-color: lemonchiffon;
+    padding: 5px;
+    margin-left: 50px;
+    background-image: url(images/shapes/shape-1.png);
+
+}
+
+.skils{
+    width: 40%;
+    background-color: lightcyan;
+    padding: 5px;
+    margin-right: 50px;
+    background-image: url(images/shapes/shape-1.png);
+
+}
+   
+.futter{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.876);
+}
+
+.futter h3{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.futter p{
+    text-align: center;
+}
